@@ -1,0 +1,13 @@
+{
+  "environment": "dev",
+  "versionCode": 145,
+  "versionName": "dev_7.70.0",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.70.0/dev_BrosEstate_v7.70.0.apk",
+  "sizeBytes": 101430077,
+  "sha256": "8b0d848ee16f47710b772a3f3d9f813234348ae9d0b498c5ee5e5491b04e10ce",
+  "signerSha256": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+  "mandatory": true,
+  "notes": "Updates now come from Seeroo sw_releases; the app is named dev_BrosEstate",
+  "commit": "2b51cf3af504e533c185ff5b7d2c4b3cab8ab63f",
+  "publishedAt": "2026-10-12T10:43:12Z"
+}
