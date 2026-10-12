@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 146,
-  "versionName": "dev_7.70.2",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.70.2/dev_BrosEstate_v7.70.2.apk",
-  "sizeBytes": 101430041,
-  "sha256": "280b1b7c5d6f5203f08ea9bc1f23c40621d199c7d6c8b7a7507b0372d1db39c0",
+  "versionCode": 147,
+  "versionName": "dev_7.70.3",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.70.3/dev_BrosEstate_v7.70.3.apk",
+  "sizeBytes": 102437585,
+  "sha256": "76dfb2b96273ee8dd15493721f11b12726c37b1126c601d1e72be293d6df46a5",
   "signerSha256": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
   "mandatory": true,
-  "notes": "Updates now come from Seeroo sw_releases; the app is named dev_BrosEstate",
-  "commit": "13042cae997bddea4471ea748ffa91af4e5af478",
-  "publishedAt": "2026-10-12T10:54:14Z"
+  "notes": "Home page: Daily Expenses",
+  "commit": "2e619e420d5da47fe0deaa67fe6f1fdff1092c1d",
+  "publishedAt": "2026-10-12T11:44:27Z"
 }
