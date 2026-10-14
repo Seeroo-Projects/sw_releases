@@ -1,0 +1,13 @@
+{
+  "environment": "test",
+  "versionCode": 1003034,
+  "versionName": "test_1.3.34",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_quicrm_v1.3.34/test_quicrm_v1.3.34.apk",
+  "sizeBytes": 63622990,
+  "sha256": "85d444991aa026790dd816adb56fd7beecefe186c363e4f1f10f87ec7a6fa11b",
+  "signerSha256": "7c60c3e7906fd8901a88a2d50d9c5abe8f12948056c465639a8a2e33eeddc96c",
+  "mandatory": false,
+  "notes": "Merge branch 'dev' into test",
+  "commit": "e8428fbab824f1d94aab49582f35b0dea9e78720",
+  "publishedAt": "2026-10-14T07:21:25Z"
+}
