@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 1003033,
-  "versionName": "dev_1.3.33",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_quicrm_v1.3.33/dev_quicrm_v1.3.33.apk",
+  "versionCode": 1003034,
+  "versionName": "dev_1.3.34",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_quicrm_v1.3.34/dev_quicrm_v1.3.34.apk",
   "sizeBytes": 63622986,
-  "sha256": "030cce0d4a932cb39555862c0c570d8286eb0b02307adca58a38d15631c27e72",
+  "sha256": "1610f6b6c71f38146a90062b5d8ca20cf8147ebdc7fa475fc26f24a186cc2012",
   "signerSha256": "7c60c3e7906fd8901a88a2d50d9c5abe8f12948056c465639a8a2e33eeddc96c",
   "mandatory": false,
   "notes": "Merge branch 'dev-rahul' into dev",
-  "commit": "c137eb975954714afa22ea222c7e8eddaa889e8d",
-  "publishedAt": "2026-10-14T06:28:40Z"
+  "commit": "d3f5072290eb57b3c26fe5d03c72ae40146922fa",
+  "publishedAt": "2026-10-14T07:04:29Z"
 }
