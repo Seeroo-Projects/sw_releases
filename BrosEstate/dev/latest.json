@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 147,
-  "versionName": "dev_7.70.3",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.70.3/dev_BrosEstate_v7.70.3.apk",
-  "sizeBytes": 102437585,
-  "sha256": "76dfb2b96273ee8dd15493721f11b12726c37b1126c601d1e72be293d6df46a5",
+  "versionCode": 149,
+  "versionName": "dev_7.83.4",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.83.4/dev_BrosEstate_v7.83.4.apk",
+  "sizeBytes": 102339985,
+  "sha256": "73afce6aa041e9406f5da0cb15d2264f0fe8074058ebb8917be768276dab1038",
   "signerSha256": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
   "mandatory": true,
-  "notes": "Home page: Daily Expenses",
-  "commit": "2e619e420d5da47fe0deaa67fe6f1fdff1092c1d",
-  "publishedAt": "2026-10-12T11:44:27Z"
+  "notes": "Remove the GitHub Actions deploy workflow: Devopper Builds deploys this repository now (pipelines on app.devopper.com)",
+  "commit": "34438576742ec6d0bd61919d76f615866051505a",
+  "publishedAt": "2026-10-18T16:29:02Z"
 }
