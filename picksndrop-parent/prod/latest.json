@@ -1,0 +1,12 @@
+{
+  "environment": "prod",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/picksndrop-parent_v1.0.0/picksndrop-parent_v1.0.0.apk",
+  "sizeBytes": 55149515,
+  "sha256": "dfabc34d307d9d74281b0dc9910cfb12da05b54f0ba3f8a05ce02007a71a4736",
+  "signerSha256": "4dc6ff3f77de5a5ab6a11c5d913028f75871a53952c5ba156c91ccc88913cfdf",
+  "mandatory": false,
+  "commit": "",
+  "publishedAt": "2026-10-19T02:41:05Z"
+}
