@@ -1,0 +1,14 @@
+{
+    "environment":  "test",
+    "version":  "0.7.1",
+    "server_url":  "https://test2.zotula.com",
+    "setupUrl":  "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_zotula2-agent_v0.7.1/test_zotula2-agent_v0.7.1.exe",
+    "setupSize":  42776612,
+    "setupSha256":  "759b74e37bee5eb9bba6adb6a5ff08bbfff9bfac5657c5d674b88a116b8c97d4",
+    "msiUrl":  "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_zotula2-agent_v0.7.1/test_zotula2-agent_v0.7.1.msi",
+    "msiSize":  42558483,
+    "msiSha256":  "adf42d0b89e24b45ca11102b48163d75cc97d7cb49c4941b39775dc0b4a96968",
+    "signed":  false,
+    "commit":  "",
+    "publishedAt":  "2026-10-19T10:28:28Z"
+}
