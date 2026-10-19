@@ -1,0 +1,12 @@
+{
+  "environment": "prod",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/picksndrop-drivercast_v1.0.0/picksndrop-drivercast_v1.0.0.apk",
+  "sizeBytes": 87517172,
+  "sha256": "11b74c6c87d915aeee771ccec734f4f14ff937681af83badacb902c4e2fa1d1d",
+  "signerSha256": "dab9638e807377b8f7ade6cb574aabfc19b65383df117221fb94af0eb576ec61",
+  "mandatory": false,
+  "commit": "",
+  "publishedAt": "2026-10-19T02:16:13Z"
+}
