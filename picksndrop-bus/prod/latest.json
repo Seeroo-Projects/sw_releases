@@ -1,0 +1,12 @@
+{
+  "environment": "prod",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/picksndrop-bus_v1.0.0/picksndrop-bus_v1.0.0.apk",
+  "sizeBytes": 53295973,
+  "sha256": "7d4fb9096e352234d8c80c1ad562af5a11651969f0f4643ba210b4880d9783a0",
+  "signerSha256": "8b27b01dd83759949db1c84b312998b6927081313b735db8ccc6286ff92ef7e5",
+  "mandatory": false,
+  "commit": "",
+  "publishedAt": "2026-10-19T01:58:27Z"
+}
