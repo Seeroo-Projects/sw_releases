@@ -1,13 +1,13 @@
 {
   "environment": "prod",
-  "versionCode": 1003036,
-  "versionName": "1.3.36",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/quicrm_v1.3.36/quicrm_v1.3.36.apk",
-  "sizeBytes": 63622978,
-  "sha256": "f375ebbde65566c3b360df64cf56ce9feed593d31f7deb7bd38d3e9b3a1824b5",
+  "versionCode": 1003044,
+  "versionName": "1.3.44",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/quicrm_v1.3.44/quicrm_v1.3.44.apk",
+  "sizeBytes": 63622922,
+  "sha256": "e39ed33be6600fc3b070afac775884c577599cbc2a115f399e7ee3dd3d89ba86",
   "signerSha256": "232c804c562bc79313d9521de1a08c27217def98383192da971064a47c03cf0a",
   "mandatory": false,
-  "notes": "Remove the GitHub Actions deploy workflow: Devopper Builds deploys this repository now (pipelines on app.devopper.com)",
-  "commit": "",
-  "publishedAt": "2026-10-19T01:19:49Z"
+  "notes": "Merge test into main (Devopper, rahul@seeroo.com)",
+  "commit": "b92c0b86da3b6c07a20735fa59ca3acf1b560bd6",
+  "publishedAt": "2026-10-19T06:02:22Z"
 }
