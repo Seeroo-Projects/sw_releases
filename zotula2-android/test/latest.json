@@ -1,0 +1,10 @@
+{
+  "environment": "test",
+  "versionName": "0.7.1",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_zotula2-android_v0.7.1/test_zotula2-android_v0.7.1.apk",
+  "sizeBytes": 14482772,
+  "sha256": "d8e70f25b495a7acc0618563874d4d32673c49a8a880063a9f3ac81d3e516807",
+  "build": "debug",
+  "commit": "",
+  "publishedAt": "2026-10-19T10:27:20Z"
+}
