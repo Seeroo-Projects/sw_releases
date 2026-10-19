@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 149,
-  "versionName": "dev_7.83.4",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.83.4/dev_BrosEstate_v7.83.4.apk",
-  "sizeBytes": 102339985,
-  "sha256": "73afce6aa041e9406f5da0cb15d2264f0fe8074058ebb8917be768276dab1038",
+  "versionCode": 150,
+  "versionName": "dev_7.84.0",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.84.0/dev_BrosEstate_v7.84.0.apk",
+  "sizeBytes": 102341277,
+  "sha256": "86569c70cf50b63707ed8ef99b7b0d07f1e7f0ac8d430b0653fedea3637cf8b2",
   "signerSha256": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
   "mandatory": true,
-  "notes": "Remove the GitHub Actions deploy workflow: Devopper Builds deploys this repository now (pipelines on app.devopper.com)",
-  "commit": "34438576742ec6d0bd61919d76f615866051505a",
-  "publishedAt": "2026-10-18T16:29:02Z"
+  "notes": "W7.83.0 · M7.84.0 (abhinav): Team: staff invitations now actually reach the person. After adding a staff member, \"Send on WhatsApp\" opens your WhatsApp with the invitation already written (download link + \"Log in with this number\"), and pending members get a \"Send invite\" button. \"Pending\" now turns Active on their first sign-in, and a deactivated staff member can no longer sign back in",
+  "commit": "1d5ebc8eb80114218037af31951c581b4de3e416",
+  "publishedAt": "2026-10-19T11:45:43Z"
 }
