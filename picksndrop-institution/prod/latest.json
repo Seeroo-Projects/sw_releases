@@ -1,0 +1,12 @@
+{
+  "environment": "prod",
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/picksndrop-institution_v1.0.0/picksndrop-institution_v1.0.0.apk",
+  "sizeBytes": 52934699,
+  "sha256": "bd7ee837b1e41ceeb5630ce95068421cd79df6aacdf0e831b8244deabb08b660",
+  "signerSha256": "b3062de27b422ba04e9483902f82beb6859d210f791b8a22c78986b935c90732",
+  "mandatory": false,
+  "commit": "",
+  "publishedAt": "2026-10-19T02:28:09Z"
+}
