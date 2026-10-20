@@ -1,13 +1,13 @@
 {
   "environment": "test",
-  "versionCode": 2000210,
-  "versionName": "test_2.0.210",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_gramob-driver_v2.0.210/test_gramob-driver_v2.0.210.apk",
-  "sizeBytes": 46967611,
-  "sha256": "97a55947ddf2610553c6d78630dcd3ad9c0688c0110e462e9e1ff03b9e85e8fa",
+  "versionCode": 2000212,
+  "versionName": "test_2.0.212",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_gramob-driver_v2.0.212/test_gramob-driver_v2.0.212.apk",
+  "sizeBytes": 46967579,
+  "sha256": "4ecc4050d83c11b15584cdae4ca56c25e2172aa6717c3d659d956e0e5e763c35",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Google Play review sign-in: 4678999999 (passenger) and 4678999991 (driver) are built in as the reviewer numbers and sign in with the fixed OTP, never texted, unless the server names others (blank counts as unset, off turns one off); the API's sign-in routes and both apps' sign-in screens let exactly these two through although they start with 4; version W1.3.89 / M2.0.210\n• Android: both apps target SDK 36 (Android 16), portrait kept on large screens; release script builds a signed Play bundle with --aab, production API only; version M2.0.209\n• Driver vehicle step: single-tile types share one row; new app screenshots on the landing page; version M2.0.208, W1.3.80\n• Driver onboarding fixes: licence/RC back side required, rejected documents block submit, no auto-resubmit on upload, status guards; version M2.0.207\n• New app icons for the driver and passenger apps on Android and iOS; version M2.0.204\n• Driver vehicle step: fresh vehicle types and categories, plain types in one grid, SVG icons on iOS\n• Driver: picking a car category no longer ticks Van too; iOS compile-review fixes\n• New driver and passenger logos on Android and iOS; version M2.0.202",
-  "commit": "3225d7e1531720b90a2c8d8178ebbe93da87bcb0",
-  "publishedAt": "2026-10-20T07:14:59Z"
+  "notes": "• Store compliance: Android apps no longer use USE_FULL_SCREEN_INTENT (removed from both manifests with tools:node=\"remove\", and every setFullScreenIntent dropped) — calls, ride offers and the scheduled-ride reminder ring as high-priority pop-ups with sound and vibration and open their screen when tapped; iOS apps drop the voip background mode (no PushKit/CallKit); version M2.0.212\n• Driver onboarding: the Aadhaar back side is optional (tile reads \"Back side (Optional)\") in the Android and iOS driver apps and in the server's submit check; the licence and RC still need both sides; version W1.3.90 / M2.0.211\n• Google Play review sign-in: 4678999999 (passenger) and 4678999991 (driver) are built in as the reviewer numbers and sign in with the fixed OTP, never texted, unless the server names others (blank counts as unset, off turns one off); the API's sign-in routes and both apps' sign-in screens let exactly these two through although they start with 4; version W1.3.89 / M2.0.210\n• Android: both apps target SDK 36 (Android 16), portrait kept on large screens; release script builds a signed Play bundle with --aab, production API only; version M2.0.209\n• Driver vehicle step: single-tile types share one row; new app screenshots on the landing page; version M2.0.208, W1.3.80\n• Driver onboarding fixes: licence/RC back side required, rejected documents block submit, no auto-resubmit on upload, status guards; version M2.0.207\n• New app icons for the driver and passenger apps on Android and iOS; version M2.0.204\n• Driver vehicle step: fresh vehicle types and categories, plain types in one grid, SVG icons on iOS",
+  "commit": "22c8d087257ecc9335cac8b4cd41b2ccacec2f68",
+  "publishedAt": "2026-10-20T14:31:49Z"
 }
