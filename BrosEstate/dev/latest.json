@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 150,
-  "versionName": "dev_7.84.0",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.84.0/dev_BrosEstate_v7.84.0.apk",
-  "sizeBytes": 102341277,
-  "sha256": "86569c70cf50b63707ed8ef99b7b0d07f1e7f0ac8d430b0653fedea3637cf8b2",
+  "versionCode": 151,
+  "versionName": "dev_7.84.1",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.84.1/dev_BrosEstate_v7.84.1.apk",
+  "sizeBytes": 102341313,
+  "sha256": "8434dea7115feb2c782ed8849b1e70778636b5fa6b893402efc8478290d3d5ab",
   "signerSha256": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
   "mandatory": true,
-  "notes": "W7.83.0 · M7.84.0 (abhinav): Team: staff invitations now actually reach the person. After adding a staff member, \"Send on WhatsApp\" opens your WhatsApp with the invitation already written (download link + \"Log in with this number\"), and pending members get a \"Send invite\" button. \"Pending\" now turns Active on their first sign-in, and a deactivated staff member can no longer sign back in",
-  "commit": "1d5ebc8eb80114218037af31951c581b4de3e416",
-  "publishedAt": "2026-10-19T11:45:43Z"
+  "notes": "W7.83.0 · M7.84.1 (abhinav): Other brokers' listings: a gap between the search box and the first listing, which used to touch it",
+  "commit": "b7ebd2040f59a9c36caed83ff2c159d282539978",
+  "publishedAt": "2026-10-20T05:56:20Z"
 }
