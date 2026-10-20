@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 151,
-  "versionName": "dev_7.84.1",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.84.1/dev_BrosEstate_v7.84.1.apk",
-  "sizeBytes": 102341313,
-  "sha256": "8434dea7115feb2c782ed8849b1e70778636b5fa6b893402efc8478290d3d5ab",
+  "versionCode": 152,
+  "versionName": "dev_7.84.3",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.84.3/dev_BrosEstate_v7.84.3.apk",
+  "sizeBytes": 102343473,
+  "sha256": "116c56343c1bbc015a84a4ca0c8c56196def1048ffbde054df5e64fb8597f4e0",
   "signerSha256": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
   "mandatory": true,
-  "notes": "W7.83.0 · M7.84.1 (abhinav): Other brokers' listings: a gap between the search box and the first listing, which used to touch it",
-  "commit": "b7ebd2040f59a9c36caed83ff2c159d282539978",
-  "publishedAt": "2026-10-20T05:56:20Z"
+  "notes": "W7.83.2 · M7.84.3 (abhinav): Team: each person's customer count is now only the customers actually assigned to them — the owner no longer absorbs customers nobody was given. Those are shown on their own line (\"2 customers are not assigned to anyone\"), and enquiries/WhatsApp leads with no listing holder stay unassigned instead of going to the owner",
+  "commit": "0eae92f3d0b08e34e25e2351c0140a705608b017",
+  "publishedAt": "2026-10-20T08:57:01Z"
 }
