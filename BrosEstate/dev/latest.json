@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 152,
-  "versionName": "dev_7.84.3",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.84.3/dev_BrosEstate_v7.84.3.apk",
-  "sizeBytes": 102343473,
-  "sha256": "116c56343c1bbc015a84a4ca0c8c56196def1048ffbde054df5e64fb8597f4e0",
+  "versionCode": 153,
+  "versionName": "dev_7.87.1",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.87.1/dev_BrosEstate_v7.87.1.apk",
+  "sizeBytes": 102409029,
+  "sha256": "b9a887300bdcd901bcda0c86f82c71fefa71c484a05ab6b80777ed515b412477",
   "signerSha256": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
   "mandatory": true,
-  "notes": "W7.83.2 · M7.84.3 (abhinav): Team: each person's customer count is now only the customers actually assigned to them — the owner no longer absorbs customers nobody was given. Those are shown on their own line (\"2 customers are not assigned to anyone\"), and enquiries/WhatsApp leads with no listing holder stay unassigned instead of going to the owner",
-  "commit": "0eae92f3d0b08e34e25e2351c0140a705608b017",
-  "publishedAt": "2026-10-20T08:57:01Z"
+  "notes": "Merge dev-abhinav into dev (Devopper, abhinav.h@seeroo.com)",
+  "commit": "29f9381d5f9f833a9ae8e9ba422abd307e7b3b9a",
+  "publishedAt": "2026-10-25T11:17:08Z"
 }
