@@ -1,14 +1,14 @@
 {
     "environment":  "dev",
-    "version":  "0.9.3",
+    "version":  "0.9.4",
     "server_url":  "https://dev2.zotula.com",
-    "setupUrl":  "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_zotula2-agent_v0.9.3/dev_zotula2-agent_v0.9.3.exe",
-    "setupSize":  42790426,
-    "setupSha256":  "dc5c3ee516e396dc9a3a1cd84809bb6c45ac8d81c46bdefcefe9b86ccb526ad7",
-    "msiUrl":  "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_zotula2-agent_v0.9.3/dev_zotula2-agent_v0.9.3.msi",
+    "setupUrl":  "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_zotula2-agent_v0.9.4/dev_zotula2-agent_v0.9.4.exe",
+    "setupSize":  42789994,
+    "setupSha256":  "293fe2d9df59b13289cf8f4c3c6f962049f38faf28d79e616c98af18c18ae2d7",
+    "msiUrl":  "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_zotula2-agent_v0.9.4/dev_zotula2-agent_v0.9.4.msi",
     "msiSize":  42571000,
-    "msiSha256":  "8e39de9daa3a9e7e0da2471545855ef11a18e31c838508fcb2102f341858e97a",
+    "msiSha256":  "4f5d1b83fcdfd7696a7d71b056edd70f75644df895f20f2835f74ff4b1b99923",
     "signed":  false,
-    "commit":  "84c229a0abebc8a7ce363a1ed5ffdbec999e161c",
-    "publishedAt":  "2026-10-27T11:10:41Z"
+    "commit":  "581a660497c7af1673115ee7baf3907567691257",
+    "publishedAt":  "2026-10-27T12:27:05Z"
 }
