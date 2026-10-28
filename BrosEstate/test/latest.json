@@ -1,13 +1,13 @@
 {
   "environment": "test",
-  "versionCode": 148,
-  "versionName": "test_7.70.3",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_BrosEstate_v7.70.3/test_BrosEstate_v7.70.3.apk",
-  "sizeBytes": 102437525,
-  "sha256": "9e37e7f04e690e7e5077ff508b000e4f03297f9df6800572e36ca130478b44db",
+  "versionCode": 156,
+  "versionName": "test_7.89.2",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_BrosEstate_v7.89.2/test_BrosEstate_v7.89.2.apk",
+  "sizeBytes": 102440821,
+  "sha256": "f72aa9d6be5caa99c963ba8464cc56860fbe3720b220c048220c16d983221fb9",
   "signerSha256": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
   "mandatory": true,
-  "notes": "Home page: Daily Expenses",
-  "commit": "2e619e420d5da47fe0deaa67fe6f1fdff1092c1d",
-  "publishedAt": "2026-10-12T11:54:34Z"
+  "notes": "Merge dev into test (Devopper, abhinav.h@seeroo.com)",
+  "commit": "bfda538c9108b02aeef0814bab027359ac5604bf",
+  "publishedAt": "2026-10-28T06:52:07Z"
 }
