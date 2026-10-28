@@ -1,11 +1,11 @@
 {
   "environment": "dev",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "server_url": "https://dev2.zotula.com",
-  "pkgUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_zotula2-mac-agent_v0.10.0/dev_zotula2-mac-agent_v0.10.0.pkg",
-  "pkgSize": 73278666,
-  "pkgSha256": "671359fe1a25ded6e78c548a0d55d918c38d6e6595423f9301b6ac8bc8f3f2a6",
+  "pkgUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_zotula2-mac-agent_v0.10.1/dev_zotula2-mac-agent_v0.10.1.pkg",
+  "pkgSize": 73279926,
+  "pkgSha256": "6da30cb0b301974415fdffa3ffc42a1510e363f498fd24335820e658baf134e1",
   "signed": false,
-  "commit": "1f70a9849923176824ab355e04587f9da56df4be",
-  "publishedAt": "2026-10-28T10:56:07Z"
+  "commit": "0eaa83e35d982f538427bfca6583212105568cf8",
+  "publishedAt": "2026-10-28T11:00:39Z"
 }
