@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 2000306,
-  "versionName": "dev_1.5.6",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-passenger_v1.5.6/dev_gramob-passenger_v1.5.6.apk",
-  "sizeBytes": 48288576,
-  "sha256": "c53277edd6f70f5fdbc8876d11400b45c767297b91a22071186843dc7570eb1f",
+  "versionCode": 2000309,
+  "versionName": "dev_1.5.9",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-passenger_v1.5.9/dev_gramob-passenger_v1.5.9.apk",
+  "sizeBytes": 48288580,
+  "sha256": "cbc2f0bbee919bd0ea58d0a1e5b7bbc85355eee53ecd57f4bd2794d5b077f5f1",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Contact a driver: optional photos with a text, and the contact feature on iOS\n• Block reason \"Others\" box shows 4 rows in both apps\n• Landing QR codes, red Blocked passengers icon, 6-line help box\n• Contact nearby drivers: passengers call, voice or text one nearby driver\n• driver and passagers blocking implemantion\n• Design breakage when language is malayalam fixed commit\n• Apps and versions: one version and build number per application, kept by Devopper (all restart at 1.5.0)\n• \"Let Gramob find a driver later\" closes the scheduled-ride request on the drivers (API, driver and passenger, Android and iOS) — when a passenger left Find a driver with \"find a driver later\", the \"Scheduled ride request\" dialog stayed up on the drivers it had been sent to. New POST passenger/rides/:id/find-later leaves the booking as it is, sends ride:scheduled_request_closed to every driver the request went to (except one re-confirming a moved time) and logs SCHEDULED_FIND_LATER; it returns {closed: 0} once the ride has a driver or is out to bidding. The driver apps close that ride's dialog, do not raise it again this session, and keep the ride on Requests to answer. The passenger apps call it on \"find a driver later\" and leave for Rides after the answer or after 4 seconds, whichever is first. New tests: find-later.spec.ts (API) and ScheduledRequestClosedTest (driver). iOS docs updated (api-contract, driver and passenger inventories). The API part needs a dev deploy; iOS not built here (no Xcode)",
-  "commit": "5a876a0d68e378dc51c19efc365762e01048fb50",
-  "publishedAt": "2026-10-27T15:58:06Z"
+  "notes": "• All apps: comment-only touch-ups; reserve AD1.5.11, AC1.5.9, ID1.5.10, IC1.5.8, WS1.5.8, CP1.5.6\n• Driver, passenger (Android and iOS): whitespace and comment tidy-ups\n• Contact a driver: optional photos with a text, and the contact feature on iOS\n• Block reason \"Others\" box shows 4 rows in both apps\n• Landing QR codes, red Blocked passengers icon, 6-line help box\n• Contact nearby drivers: passengers call, voice or text one nearby driver\n• driver and passagers blocking implemantion\n• Design breakage when language is malayalam fixed commit",
+  "commit": "35dabd4203c6ef5d0f24f7caaefb4ea95d4b3955",
+  "publishedAt": "2026-10-28T05:30:23Z"
 }
