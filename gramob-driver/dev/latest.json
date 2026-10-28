@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 2000312,
-  "versionName": "dev_1.6.0",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-driver_v1.6.0/dev_gramob-driver_v1.6.0.apk",
+  "versionCode": 2000313,
+  "versionName": "dev_1.6.1",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-driver_v1.6.1/dev_gramob-driver_v1.6.1.apk",
   "sizeBytes": 47091083,
-  "sha256": "cb4d7704233a197fe16201935f89e69b88cd0f3f115161bbd28734ed8c552ea8",
+  "sha256": "e9ff4b36612c5347b70bd8dd842cf7bccfac2bd9d0bf07e05342f8086b282e8e",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• All apps: comment-only touch-ups; reserve AD1.5.11, AC1.5.9, ID1.5.10, IC1.5.8, WS1.5.8, CP1.5.6\n• Driver: restore the sign-in screen's doc comment\n• Driver, passenger (Android and iOS): whitespace and comment tidy-ups\n• Driver: passenger contact request plays the ride-request tone\n• move Pickup and Trip Distance Values and Add Google Maps Navigation Link\n• Driver contact request card in the app's orange instead of purple\n• Contact a driver: optional photos with a text, and the contact feature on iOS\n• Block reason \"Others\" box shows 4 rows in both apps",
-  "commit": "0d9b741f0313245459ea67e88f62c0b17a2a6bc5",
-  "publishedAt": "2026-10-28T07:31:45Z"
+  "notes": "• Driver (Android + iOS): Ride completed sheet look — circled check, block icon before Block passenger, Back to Home button\n• All apps: comment-only touch-ups; reserve AD1.5.11, AC1.5.9, ID1.5.10, IC1.5.8, WS1.5.8, CP1.5.6\n• Driver: restore the sign-in screen's doc comment\n• Driver, passenger (Android and iOS): whitespace and comment tidy-ups\n• Driver: passenger contact request plays the ride-request tone\n• move Pickup and Trip Distance Values and Add Google Maps Navigation Link\n• Driver contact request card in the app's orange instead of purple\n• Contact a driver: optional photos with a text, and the contact feature on iOS",
+  "commit": "9413beb3270e92f6884821a2c19311c2ee2cf99f",
+  "publishedAt": "2026-10-28T11:10:44Z"
 }
