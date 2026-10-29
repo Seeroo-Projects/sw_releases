@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 2000314,
-  "versionName": "dev_1.6.2",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-driver_v1.6.2/dev_gramob-driver_v1.6.2.apk",
+  "versionCode": 2000315,
+  "versionName": "dev_1.6.3",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-driver_v1.6.3/dev_gramob-driver_v1.6.3.apk",
   "sizeBytes": 47091083,
-  "sha256": "88054099b7ecb9de30b0df6e39af3f7d773e1894c1ce7ed13b09a1dda21fc834",
+  "sha256": "ad1e43ad3130953f8f4103515538b70ad46bb6212a3b9681eda1b2ad541703a4",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Driver (Android): playing a contact request's voice message stops the request tone\n• Driver (Android + iOS) + API: Blocked passengers shows the reason the driver chose\n• Driver (Android + iOS): Ride completed sheet look — circled check, block icon before Block passenger, Back to Home button\n• All apps: comment-only touch-ups; reserve AD1.5.11, AC1.5.9, ID1.5.10, IC1.5.8, WS1.5.8, CP1.5.6\n• Driver: restore the sign-in screen's doc comment\n• Driver, passenger (Android and iOS): whitespace and comment tidy-ups\n• Driver: passenger contact request plays the ride-request tone\n• move Pickup and Trip Distance Values and Add Google Maps Navigation Link",
-  "commit": "42e820b039d896d1f3dde8d2e29abc8d0f499772",
-  "publishedAt": "2026-10-28T12:47:18Z"
+  "notes": "• Driver (Android + iOS) + API: Google Maps route button on every ride-request screen\n• Driver (Android): playing a contact request's voice message stops the request tone\n• Driver (Android + iOS) + API: Blocked passengers shows the reason the driver chose\n• Driver (Android + iOS): Ride completed sheet look — circled check, block icon before Block passenger, Back to Home button\n• All apps: comment-only touch-ups; reserve AD1.5.11, AC1.5.9, ID1.5.10, IC1.5.8, WS1.5.8, CP1.5.6\n• Driver: restore the sign-in screen's doc comment\n• Driver, passenger (Android and iOS): whitespace and comment tidy-ups\n• Driver: passenger contact request plays the ride-request tone",
+  "commit": "86171f4572d0a29cd51b0f25a62a61ffffb0cef9",
+  "publishedAt": "2026-10-29T00:42:07Z"
 }
