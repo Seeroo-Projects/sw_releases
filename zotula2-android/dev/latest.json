@@ -1,10 +1,10 @@
 {
   "environment": "dev",
-  "versionName": "0.12.0",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_zotula2-android_v0.12.0/dev_zotula2-android_v0.12.0.apk",
+  "versionName": "0.12.1",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_zotula2-android_v0.12.1/dev_zotula2-android_v0.12.1.apk",
   "sizeBytes": 14496520,
-  "sha256": "ab3f36b0905aed2acd5a910af9e84115823ffb4c66a467ac198bb40874e1bd5e",
+  "sha256": "3719987cca31af713f870b729ffafb4affc308c2f642ccb6f0a446a043cdd6dc",
   "build": "debug",
-  "commit": "c778e7e2e74f0a80c2908984d3ae78e471d04413",
-  "publishedAt": "2026-10-29T05:41:35Z"
+  "commit": "d54ea7348ad93787984ef2e6f6de61d49f4033a1",
+  "publishedAt": "2026-10-29T06:33:28Z"
 }
