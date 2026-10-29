@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 2000315,
-  "versionName": "dev_1.6.5",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-passenger_v1.6.5/dev_gramob-passenger_v1.6.5.apk",
-  "sizeBytes": 48304964,
-  "sha256": "bbec251c16ac24450596a0503342fc302ca96c96bd62e5d1e39a30cce2c5f6d7",
+  "versionCode": 2000317,
+  "versionName": "dev_1.6.7",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-passenger_v1.6.7/dev_gramob-passenger_v1.6.7.apk",
+  "sizeBytes": 48304984,
+  "sha256": "52c0d6906c0856b95c681d374bb791de4b43d940f877d05c538fa4fc80ccf402",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Passenger Home: Ride as you like it cards equal height, opaque theme-tinted fill (no shadow box)\n• Blocks: one block keeps a passenger and driver apart everywhere (rides + Contact)\n• Passenger (Android) + API: the chat's attach button opens the picker; a folded conversation's photos still open\n• Passenger (Android + iOS) + API: Contact a driver keeps one conversation per driver\n• Passenger (Android + iOS) + API: attach photos in a Contact a driver conversation\n• Passenger (Android + iOS): Record again and Send buttons always the same height on the voice message preview\n• All apps: comment-only touch-ups; reserve AD1.5.11, AC1.5.9, ID1.5.10, IC1.5.8, WS1.5.8, CP1.5.6\n• Driver, passenger (Android and iOS): whitespace and comment tidy-ups",
-  "commit": "3868a8b97cc1d503eb306462dd8d24ac25614752",
-  "publishedAt": "2026-10-29T05:40:56Z"
+  "notes": "• Passenger Rate ride: keyboard no longer hides Submit; comment box has a Done key\n• Blocks: passenger is told (push) when a scheduled ride loses its driver; lifting a Contact block reopens the chat\n• Passenger Home: Ride as you like it cards equal height, opaque theme-tinted fill (no shadow box)\n• Blocks: one block keeps a passenger and driver apart everywhere (rides + Contact)\n• Passenger (Android) + API: the chat's attach button opens the picker; a folded conversation's photos still open\n• Passenger (Android + iOS) + API: Contact a driver keeps one conversation per driver\n• Passenger (Android + iOS) + API: attach photos in a Contact a driver conversation\n• Passenger (Android + iOS): Record again and Send buttons always the same height on the voice message preview",
+  "commit": "5007ae8ea85da3008f44416a9a301bfece896bbb",
+  "publishedAt": "2026-10-29T06:30:58Z"
 }
