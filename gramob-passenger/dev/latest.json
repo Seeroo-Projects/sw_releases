@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 2000318,
-  "versionName": "dev_1.6.8",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-passenger_v1.6.8/dev_gramob-passenger_v1.6.8.apk",
+  "versionCode": 2000319,
+  "versionName": "dev_1.6.9",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-passenger_v1.6.9/dev_gramob-passenger_v1.6.9.apk",
   "sizeBytes": 48304276,
-  "sha256": "adfbcc778339103ce1cfe5ebe00f47f82c68f603bf1c400a67a06b8c2c7dea71",
+  "sha256": "7c771ef957dd3f3f9407de106f7d383613e927dc340cc3e00cb9cf12e5d602c8",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Passenger Settings: the switches now do what they say\n• Passenger Rate ride: keyboard no longer hides Submit; comment box has a Done key\n• Blocks: passenger is told (push) when a scheduled ride loses its driver; lifting a Contact block reopens the chat\n• Passenger Home: Ride as you like it cards equal height, opaque theme-tinted fill (no shadow box)\n• Blocks: one block keeps a passenger and driver apart everywhere (rides + Contact)\n• Passenger (Android) + API: the chat's attach button opens the picker; a folded conversation's photos still open\n• Passenger (Android + iOS) + API: Contact a driver keeps one conversation per driver\n• Passenger (Android + iOS) + API: attach photos in a Contact a driver conversation",
-  "commit": "34e670c8ffb4b269477e0c033377d83d4dcf2c80",
-  "publishedAt": "2026-10-29T06:47:11Z"
+  "notes": "• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Passenger Settings: the switches now do what they say\n• Passenger Rate ride: keyboard no longer hides Submit; comment box has a Done key\n• Blocks: passenger is told (push) when a scheduled ride loses its driver; lifting a Contact block reopens the chat\n• Passenger Home: Ride as you like it cards equal height, opaque theme-tinted fill (no shadow box)\n• Blocks: one block keeps a passenger and driver apart everywhere (rides + Contact)\n• Passenger (Android) + API: the chat's attach button opens the picker; a folded conversation's photos still open\n• Passenger (Android + iOS) + API: Contact a driver keeps one conversation per driver",
+  "commit": "5f14f0819afe87f324ff8bf1b119203a0c8c0496",
+  "publishedAt": "2026-10-29T07:19:00Z"
 }
