@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 2000316,
-  "versionName": "dev_1.6.4",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-driver_v1.6.4/dev_gramob-driver_v1.6.4.apk",
-  "sizeBytes": 47091083,
-  "sha256": "c522e2a0a9cce48bc5092f0dcf0544ef27b16b080bf4bb2d7b33c96781592a91",
+  "versionCode": 2000318,
+  "versionName": "dev_1.6.6",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-driver_v1.6.6/dev_gramob-driver_v1.6.6.apk",
+  "sizeBytes": 47091087,
+  "sha256": "e9d4a5c44e1ac3b92111469f240b29082dfd9c894cfe69ee2f22c19765598058",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Blocks: one block keeps a passenger and driver apart everywhere (rides + Contact)\n• Driver (Android + iOS) + API: Google Maps route button on every ride-request screen\n• Driver (Android): playing a contact request's voice message stops the request tone\n• Driver (Android + iOS) + API: Blocked passengers shows the reason the driver chose\n• Driver (Android + iOS): Ride completed sheet look — circled check, block icon before Block passenger, Back to Home button\n• All apps: comment-only touch-ups; reserve AD1.5.11, AC1.5.9, ID1.5.10, IC1.5.8, WS1.5.8, CP1.5.6\n• Driver: restore the sign-in screen's doc comment\n• Driver, passenger (Android and iOS): whitespace and comment tidy-ups",
-  "commit": "3868a8b97cc1d503eb306462dd8d24ac25614752",
-  "publishedAt": "2026-10-29T05:41:06Z"
+  "notes": "• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Blocks: passenger is told (push) when a scheduled ride loses its driver; lifting a Contact block reopens the chat\n• Blocks: one block keeps a passenger and driver apart everywhere (rides + Contact)\n• Driver (Android + iOS) + API: Google Maps route button on every ride-request screen\n• Driver (Android): playing a contact request's voice message stops the request tone\n• Driver (Android + iOS) + API: Blocked passengers shows the reason the driver chose\n• Driver (Android + iOS): Ride completed sheet look — circled check, block icon before Block passenger, Back to Home button\n• All apps: comment-only touch-ups; reserve AD1.5.11, AC1.5.9, ID1.5.10, IC1.5.8, WS1.5.8, CP1.5.6",
+  "commit": "5f14f0819afe87f324ff8bf1b119203a0c8c0496",
+  "publishedAt": "2026-10-29T07:19:11Z"
 }
