@@ -3,10 +3,10 @@
   "versionCode": 1,
   "versionName": "1.6.0",
   "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/aghosha_v1.6.0/aghosha_v1.6.0.apk",
-  "sizeBytes": 63377662,
-  "sha256": "64e82369bbfbba69c3f056dcc3f96fa1bdbedb220ea3e5d83ad09a39e9b08f4b",
+  "sizeBytes": 63541502,
+  "sha256": "bc789ad0f984eaa6e3dab22995962981d604c818e271af713f3c3fe7e54b832c",
   "signerSha256": "a3253f49c50c6e7480d133109d1aae74a06bb7660b1a8db40109e684ccc1ef4a",
   "mandatory": false,
-  "commit": "13600cc71ffccbe1d559202120d768921c73ead1",
-  "publishedAt": "2026-10-26T08:09:47Z"
+  "commit": "0e2d56c47291eb0b0334893d5bfd34a507b781ff",
+  "publishedAt": "2026-11-05T08:05:50Z"
 }
