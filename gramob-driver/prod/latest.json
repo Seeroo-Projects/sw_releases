@@ -1,13 +1,13 @@
 {
   "environment": "prod",
-  "versionCode": 2000318,
-  "versionName": "1.6.6",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/gramob-driver_v1.6.6/gramob-driver_v1.6.6.apk",
-  "sizeBytes": 47091059,
-  "sha256": "c6df7facc082e230e909f048cae45eb5ef88eaefa86926e3f216b51ba4e93bd8",
+  "versionCode": 2000322,
+  "versionName": "1.6.10",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/gramob-driver_v1.6.10/gramob-driver_v1.6.10.apk",
+  "sizeBytes": 47106611,
+  "sha256": "db82c31dd5fb39147d7421be35758348d58ddfbfa8c23444eac4585a77271a10",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Blocks: passenger is told (push) when a scheduled ride loses its driver; lifting a Contact block reopens the chat\n• Blocks: one block keeps a passenger and driver apart everywhere (rides + Contact)\n• Driver (Android + iOS) + API: Google Maps route button on every ride-request screen\n• Driver (Android): playing a contact request's voice message stops the request tone\n• Driver (Android + iOS) + API: Blocked passengers shows the reason the driver chose\n• Driver (Android + iOS): Ride completed sheet look — circled check, block icon before Block passenger, Back to Home button\n• All apps: comment-only touch-ups; reserve AD1.5.11, AC1.5.9, ID1.5.10, IC1.5.8, WS1.5.8, CP1.5.6",
-  "commit": "a3c2da777bf0249c6de2a7f3836bd899f1a43c23",
-  "publishedAt": "2026-10-29T09:39:23Z"
+  "notes": "• Store review numbers: 6678999999 (passenger) and 6678999991 (driver) on Android too\n• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Driver app icon: regenerated from the current logo with DRIVER (AD1.6.7 · ID1.6.13)\n• Driver branding: remove unused source art\n• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Blocks: passenger is told (push) when a scheduled ride loses its driver; lifting a Contact block reopens the chat\n• Blocks: one block keeps a passenger and driver apart everywhere (rides + Contact)",
+  "commit": "4a849ec9b5edd49942310b0fea20cc5d998dd082",
+  "publishedAt": "2026-11-06T10:43:54Z"
 }
