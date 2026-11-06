@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 2000319,
-  "versionName": "dev_1.6.7",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-driver_v1.6.7/dev_gramob-driver_v1.6.7.apk",
-  "sizeBytes": 47090247,
-  "sha256": "ff8833eb90ce4c047a075059b5816324d372374771c65e7f01b2e5dee49a6210",
+  "versionCode": 2000321,
+  "versionName": "dev_1.6.9",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-driver_v1.6.9/dev_gramob-driver_v1.6.9.apk",
+  "sizeBytes": 47106631,
+  "sha256": "92273e66227a384d48d009d3511e32f07fd9899fdf8e7005574bb0658a06c190",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Driver app icon: regenerated from the current logo with DRIVER (AD1.6.7 · ID1.6.13)\n• Driver branding: remove unused source art\n• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Blocks: passenger is told (push) when a scheduled ride loses its driver; lifting a Contact block reopens the chat\n• Blocks: one block keeps a passenger and driver apart everywhere (rides + Contact)\n• Driver (Android + iOS) + API: Google Maps route button on every ride-request screen\n• Driver (Android): playing a contact request's voice message stops the request tone\n• Driver (Android + iOS) + API: Blocked passengers shows the reason the driver chose",
-  "commit": "e09de26f1fc82a27e0e044641221cac93cc5f954",
-  "publishedAt": "2026-11-05T10:17:27Z"
+  "notes": "• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Driver app icon: regenerated from the current logo with DRIVER (AD1.6.7 · ID1.6.13)\n• Driver branding: remove unused source art\n• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Blocks: passenger is told (push) when a scheduled ride loses its driver; lifting a Contact block reopens the chat\n• Blocks: one block keeps a passenger and driver apart everywhere (rides + Contact)\n• Driver (Android + iOS) + API: Google Maps route button on every ride-request screen",
+  "commit": "463f6f8049291cbe73996f7711b09931c893f646",
+  "publishedAt": "2026-11-06T08:18:39Z"
 }
