@@ -1,13 +1,13 @@
 {
   "environment": "prod",
-  "versionCode": 2000319,
-  "versionName": "1.6.9",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/gramob-passenger_v1.6.9/gramob-passenger_v1.6.9.apk",
-  "sizeBytes": 48304264,
-  "sha256": "2feef9e340d1766342a8633197508a4fc759d55fa7d8624d99ab55ee57d3a1ae",
+  "versionCode": 2000324,
+  "versionName": "1.6.14",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/gramob-passenger_v1.6.14/gramob-passenger_v1.6.14.apk",
+  "sizeBytes": 48321620,
+  "sha256": "74ee7328e616a82ecd571d496505d3338e2df794febfd48df104494d52079b08",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Passenger Settings: the switches now do what they say\n• Passenger Rate ride: keyboard no longer hides Submit; comment box has a Done key\n• Blocks: passenger is told (push) when a scheduled ride loses its driver; lifting a Contact block reopens the chat\n• Passenger Home: Ride as you like it cards equal height, opaque theme-tinted fill (no shadow box)\n• Blocks: one block keeps a passenger and driver apart everywhere (rides + Contact)\n• Passenger (Android) + API: the chat's attach button opens the picker; a folded conversation's photos still open\n• Passenger (Android + iOS) + API: Contact a driver keeps one conversation per driver",
-  "commit": "a3c2da777bf0249c6de2a7f3836bd899f1a43c23",
-  "publishedAt": "2026-10-29T09:39:14Z"
+  "notes": "• Store review numbers: 6678999999 (passenger) and 6678999991 (driver) on Android too\n• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Find a driver: one moving vehicle per free nearby driver of the chosen vehicle (API, passenger Android and iOS)\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Passenger Find a driver: map search design, category picture on the trip card\n• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Passenger Settings: the switches now do what they say\n• Passenger Rate ride: keyboard no longer hides Submit; comment box has a Done key",
+  "commit": "4a849ec9b5edd49942310b0fea20cc5d998dd082",
+  "publishedAt": "2026-11-06T10:43:44Z"
 }
