@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 2000323,
-  "versionName": "dev_1.6.13",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-passenger_v1.6.13/dev_gramob-passenger_v1.6.13.apk",
-  "sizeBytes": 48321632,
-  "sha256": "844210a8d703739d947c792624b0ec42c71c52711f89c0ad4e131cbc29dce68c",
+  "versionCode": 2000324,
+  "versionName": "dev_1.6.14",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-passenger_v1.6.14/dev_gramob-passenger_v1.6.14.apk",
+  "sizeBytes": 48321636,
+  "sha256": "99c72237538f081d6df448a3f51792cc082947883342f63423a0646ffbd0269f",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Find a driver: one moving vehicle per free nearby driver of the chosen vehicle (API, passenger Android and iOS)\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Passenger Find a driver: map search design, category picture on the trip card\n• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Passenger Settings: the switches now do what they say\n• Passenger Rate ride: keyboard no longer hides Submit; comment box has a Done key\n• Blocks: passenger is told (push) when a scheduled ride loses its driver; lifting a Contact block reopens the chat",
-  "commit": "463f6f8049291cbe73996f7711b09931c893f646",
-  "publishedAt": "2026-11-06T08:18:26Z"
+  "notes": "• Store review numbers: 6678999999 (passenger) and 6678999991 (driver) on Android too\n• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Find a driver: one moving vehicle per free nearby driver of the chosen vehicle (API, passenger Android and iOS)\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Passenger Find a driver: map search design, category picture on the trip card\n• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Passenger Settings: the switches now do what they say\n• Passenger Rate ride: keyboard no longer hides Submit; comment box has a Done key",
+  "commit": "16519adffbc5c9f2888b91f841f86d3d8e832d3d",
+  "publishedAt": "2026-11-06T09:44:04Z"
 }
