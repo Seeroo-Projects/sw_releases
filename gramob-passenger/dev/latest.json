@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 2000322,
-  "versionName": "dev_1.6.12",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-passenger_v1.6.12/dev_gramob-passenger_v1.6.12.apk",
-  "sizeBytes": 48321636,
-  "sha256": "9c569399cff3b0408e9c379a122138a11e5ea647b0f6e70d3262f008098d5577",
+  "versionCode": 2000323,
+  "versionName": "dev_1.6.13",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-passenger_v1.6.13/dev_gramob-passenger_v1.6.13.apk",
+  "sizeBytes": 48321632,
+  "sha256": "844210a8d703739d947c792624b0ec42c71c52711f89c0ad4e131cbc29dce68c",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Find a driver: one moving vehicle per free nearby driver of the chosen vehicle (API, passenger Android and iOS)\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Passenger Find a driver: map search design, category picture on the trip card\n• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Passenger Settings: the switches now do what they say\n• Passenger Rate ride: keyboard no longer hides Submit; comment box has a Done key\n• Blocks: passenger is told (push) when a scheduled ride loses its driver; lifting a Contact block reopens the chat\n• Passenger Home: Ride as you like it cards equal height, opaque theme-tinted fill (no shadow box)",
-  "commit": "5348b2919a2e5ef3bc1f2fd77cc7e561a81236b9",
-  "publishedAt": "2026-11-06T06:16:28Z"
+  "notes": "• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Find a driver: one moving vehicle per free nearby driver of the chosen vehicle (API, passenger Android and iOS)\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Passenger Find a driver: map search design, category picture on the trip card\n• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Passenger Settings: the switches now do what they say\n• Passenger Rate ride: keyboard no longer hides Submit; comment box has a Done key\n• Blocks: passenger is told (push) when a scheduled ride loses its driver; lifting a Contact block reopens the chat",
+  "commit": "463f6f8049291cbe73996f7711b09931c893f646",
+  "publishedAt": "2026-11-06T08:18:26Z"
 }
