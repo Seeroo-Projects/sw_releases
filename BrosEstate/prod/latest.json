@@ -1,0 +1,13 @@
+{
+  "environment": "prod",
+  "versionCode": 165,
+  "versionName": "7.100.2",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/BrosEstate_v7.100.2/BrosEstate_v7.100.2.apk",
+  "sizeBytes": 102554509,
+  "sha256": "8c0bb90388fb46e7e66e327d487aa7cb401b46bf634356db4f07acb268ec48e8",
+  "signerSha256": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+  "mandatory": true,
+  "notes": "Merge test into main (Devopper, abhinav.h@seeroo.com)",
+  "commit": "45359029d733613141fcb47646dab687b1ec593b",
+  "publishedAt": "2026-11-10T15:36:07Z"
+}
