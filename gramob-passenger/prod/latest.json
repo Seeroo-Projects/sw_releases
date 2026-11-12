@@ -1,13 +1,13 @@
 {
   "environment": "prod",
-  "versionCode": 2000324,
-  "versionName": "1.6.14",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/gramob-passenger_v1.6.14/gramob-passenger_v1.6.14.apk",
-  "sizeBytes": 48321620,
-  "sha256": "74ee7328e616a82ecd571d496505d3338e2df794febfd48df104494d52079b08",
+  "versionCode": 2000325,
+  "versionName": "1.6.15",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/gramob-passenger_v1.6.15/gramob-passenger_v1.6.15.apk",
+  "sizeBytes": 48322456,
+  "sha256": "90903b0c6217f1608664b7eb11bbe5244b673e5b357fce0422732ccdbb17d46e",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Store review numbers: 6678999999 (passenger) and 6678999991 (driver) on Android too\n• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Find a driver: one moving vehicle per free nearby driver of the chosen vehicle (API, passenger Android and iOS)\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Passenger Find a driver: map search design, category picture on the trip card\n• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Passenger Settings: the switches now do what they say\n• Passenger Rate ride: keyboard no longer hides Submit; comment box has a Done key",
-  "commit": "4a849ec9b5edd49942310b0fea20cc5d998dd082",
-  "publishedAt": "2026-11-06T10:43:44Z"
+  "notes": "• Trip-share link on the website, Clear all notifications, fares no longer shown expired on arrival (AC1.6.15 · AD1.6.11 · IC1.6.20 · ID1.6.16 · CP1.6.37 · WS1.6.34)\n• Store review numbers: 6678999999 (passenger) and 6678999991 (driver) on Android too\n• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Find a driver: one moving vehicle per free nearby driver of the chosen vehicle (API, passenger Android and iOS)\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Passenger Find a driver: map search design, category picture on the trip card\n• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Passenger Settings: the switches now do what they say",
+  "commit": "cb571c3d43360bb39f0b5e2acba7a00443742cb9",
+  "publishedAt": "2026-11-12T07:17:41Z"
 }
