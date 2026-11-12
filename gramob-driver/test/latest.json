@@ -1,13 +1,13 @@
 {
   "environment": "test",
-  "versionCode": 2000322,
-  "versionName": "test_1.6.10",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_gramob-driver_v1.6.10/test_gramob-driver_v1.6.10.apk",
-  "sizeBytes": 47106631,
-  "sha256": "3d9fcaf473a13f9b2b1f1cb156b5879f291b240283fd29a202e599dc02436ef5",
+  "versionCode": 2000323,
+  "versionName": "test_1.6.11",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_gramob-driver_v1.6.11/test_gramob-driver_v1.6.11.apk",
+  "sizeBytes": 47107459,
+  "sha256": "7a9a578d8e63b0b3e831dd6a76d760882921cd38eda130002168652ff2a91925",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Store review numbers: 6678999999 (passenger) and 6678999991 (driver) on Android too\n• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Driver app icon: regenerated from the current logo with DRIVER (AD1.6.7 · ID1.6.13)\n• Driver branding: remove unused source art\n• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Blocks: passenger is told (push) when a scheduled ride loses its driver; lifting a Contact block reopens the chat\n• Blocks: one block keeps a passenger and driver apart everywhere (rides + Contact)",
-  "commit": "ffd743ea8ffea49ac399008aded779d6c8465c5d",
-  "publishedAt": "2026-11-06T10:29:45Z"
+  "notes": "• Trip-share link on the website, Clear all notifications, fares no longer shown expired on arrival (AC1.6.15 · AD1.6.11 · IC1.6.20 · ID1.6.16 · CP1.6.37 · WS1.6.34)\n• Store review numbers: 6678999999 (passenger) and 6678999991 (driver) on Android too\n• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Driver app icon: regenerated from the current logo with DRIVER (AD1.6.7 · ID1.6.13)\n• Driver branding: remove unused source art\n• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Blocks: passenger is told (push) when a scheduled ride loses its driver; lifting a Contact block reopens the chat",
+  "commit": "15c6b81719f9c35b477407c90336acb0f2a6eba1",
+  "publishedAt": "2026-11-12T06:37:36Z"
 }
