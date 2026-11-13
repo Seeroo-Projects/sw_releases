@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 2000325,
-  "versionName": "dev_1.6.15",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-passenger_v1.6.15/dev_gramob-passenger_v1.6.15.apk",
-  "sizeBytes": 48322468,
-  "sha256": "3095b22593da09db357482908478e9ff8ca069903a922e805c880a8df831a116",
+  "versionCode": 2000326,
+  "versionName": "dev_1.6.16",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-passenger_v1.6.16/dev_gramob-passenger_v1.6.16.apk",
+  "sizeBytes": 48463656,
+  "sha256": "87003ee9a31f559646426539bd2771ca2f64a08d1b5b458b1919f4569f434be2",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Trip-share link on the website, Clear all notifications, fares no longer shown expired on arrival (AC1.6.15 · AD1.6.11 · IC1.6.20 · ID1.6.16 · CP1.6.37 · WS1.6.34)\n• Store review numbers: 6678999999 (passenger) and 6678999991 (driver) on Android too\n• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Find a driver: one moving vehicle per free nearby driver of the chosen vehicle (API, passenger Android and iOS)\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Passenger Find a driver: map search design, category picture on the trip card\n• Version ID1.6.8 · IC1.6.9 · WS1.6.21 · CP1.6.19 (Devopper: dev-dilshana landed in dev by dilshana.shahul@seeroo.com, run #1794)",
-  "commit": "a4e542937eca3e77b9c9d67344bbe7d45e02b960",
-  "publishedAt": "2026-11-11T13:02:22Z"
+  "notes": "• Parcel delivery: Normal Parcel and Business Parcel (AD1.6.12 · AC1.6.16 · ID1.6.17 · IC1.6.21 · WS1.6.35 · CP1.6.38)\n• Trip-share link on the website, Clear all notifications, fares no longer shown expired on arrival (AC1.6.15 · AD1.6.11 · IC1.6.20 · ID1.6.16 · CP1.6.37 · WS1.6.34)\n• Store review numbers: 6678999999 (passenger) and 6678999991 (driver) on Android too\n• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Find a driver: one moving vehicle per free nearby driver of the chosen vehicle (API, passenger Android and iOS)\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Passenger Find a driver: map search design, category picture on the trip card\n• Version ID1.6.9 · IC1.6.10 · WS1.6.22 · CP1.6.20 (Devopper: dev-dilshana landed in dev by dilshana.shahul@seeroo.com, run #1797)",
+  "commit": "980f0b2493eaa9c0e1490ed8a484470732665381",
+  "publishedAt": "2026-11-13T03:40:59Z"
 }
