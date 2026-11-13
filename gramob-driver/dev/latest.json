@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 2000323,
-  "versionName": "dev_1.6.11",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-driver_v1.6.11/dev_gramob-driver_v1.6.11.apk",
-  "sizeBytes": 47107463,
-  "sha256": "48d40836a4d827fa1ce72e834e2e33f8547541006c1503a5233e4a81cbef54cd",
+  "versionCode": 2000324,
+  "versionName": "dev_1.6.12",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-driver_v1.6.12/dev_gramob-driver_v1.6.12.apk",
+  "sizeBytes": 47128859,
+  "sha256": "7e3cae505fe07ff1425d4b24c8ca4a146628b7b0cb21a79f8ac2a09029e947ae",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Trip-share link on the website, Clear all notifications, fares no longer shown expired on arrival (AC1.6.15 · AD1.6.11 · IC1.6.20 · ID1.6.16 · CP1.6.37 · WS1.6.34)\n• Store review numbers: 6678999999 (passenger) and 6678999991 (driver) on Android too\n• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Driver app icon: regenerated from the current logo with DRIVER (AD1.6.7 · ID1.6.13)\n• Driver branding: remove unused source art\n• Version ID1.6.8 · IC1.6.9 · WS1.6.21 · CP1.6.19 (Devopper: dev-dilshana landed in dev by dilshana.shahul@seeroo.com, run #1794)",
-  "commit": "a4e542937eca3e77b9c9d67344bbe7d45e02b960",
-  "publishedAt": "2026-11-11T13:02:31Z"
+  "notes": "• Parcel delivery: Normal Parcel and Business Parcel (AD1.6.12 · AC1.6.16 · ID1.6.17 · IC1.6.21 · WS1.6.35 · CP1.6.38)\n• Trip-share link on the website, Clear all notifications, fares no longer shown expired on arrival (AC1.6.15 · AD1.6.11 · IC1.6.20 · ID1.6.16 · CP1.6.37 · WS1.6.34)\n• Store review numbers: 6678999999 (passenger) and 6678999991 (driver) on Android too\n• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Driver app icon: regenerated from the current logo with DRIVER (AD1.6.7 · ID1.6.13)\n• Driver branding: remove unused source art\n• Version ID1.6.9 · IC1.6.10 · WS1.6.22 · CP1.6.20 (Devopper: dev-dilshana landed in dev by dilshana.shahul@seeroo.com, run #1797)",
+  "commit": "980f0b2493eaa9c0e1490ed8a484470732665381",
+  "publishedAt": "2026-11-13T03:41:09Z"
 }
