@@ -1,13 +1,13 @@
 {
   "environment": "test",
-  "versionCode": 164,
-  "versionName": "test_7.100.2",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_BrosEstate_v7.100.2/test_BrosEstate_v7.100.2.apk",
-  "sizeBytes": 102554525,
-  "sha256": "1b8a73ef1c0d80850d554a9d80821001b21708ad9515d7e4ad70908822e362c6",
+  "versionCode": 167,
+  "versionName": "test_7.101.0",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_BrosEstate_v7.101.0/test_BrosEstate_v7.101.0.apk",
+  "sizeBytes": 102591848,
+  "sha256": "41337663b478a9bfdef3372d6da722dd4e8a1ed6c9fa25d9b56f9e8748094d29",
   "signerSha256": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
   "mandatory": true,
   "notes": "Merge dev into test (Devopper, abhinav.h@seeroo.com)",
-  "commit": "74c80543f71e5e9192e95e6188d3233b93231617",
-  "publishedAt": "2026-11-10T13:35:25Z"
+  "commit": "69c37353cf49916c2cb2faacacde394efd6da3af",
+  "publishedAt": "2026-11-15T13:16:50Z"
 }
