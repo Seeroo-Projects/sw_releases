@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 173,
-  "versionName": "dev_7.101.2",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.101.2/dev_BrosEstate_v7.101.2.apk",
-  "sizeBytes": 102591848,
-  "sha256": "00c8a118eeac6c411fe9b84c16b54dff65136b5f2bba67f609194d12f64a2337",
+  "versionCode": 176,
+  "versionName": "dev_7.103.1",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.103.1/dev_BrosEstate_v7.103.1.apk",
+  "sizeBytes": 102612864,
+  "sha256": "3b6e7363db7fe190a73f6bba92bfb6944c26b4f148080b999ecbde3119cbbdc6",
   "signerSha256": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
   "mandatory": true,
   "notes": "Merge dev-abhinav into dev (Devopper, abhinav.h@seeroo.com)",
-  "commit": "8ae86b9c1b5c26f2d0afd826339b1ad27c910fff",
-  "publishedAt": "2026-11-15T18:37:58Z"
+  "commit": "10406b5cd12c406a9eb2422aae4bc2dac9421b8a",
+  "publishedAt": "2026-11-16T09:01:42Z"
 }
