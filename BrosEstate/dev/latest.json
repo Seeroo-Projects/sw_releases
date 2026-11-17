@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 181,
-  "versionName": "dev_7.104.2",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.104.2/dev_BrosEstate_v7.104.2.apk",
-  "sizeBytes": 102614880,
-  "sha256": "d895cbcea32e56e9bb961a6a7950fd6cf0824c4cf5a468a5d2cd7b3778338274",
+  "versionCode": 182,
+  "versionName": "dev_7.104.3",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.104.3/dev_BrosEstate_v7.104.3.apk",
+  "sizeBytes": 102615280,
+  "sha256": "fc112a2197f7495914f267d9e09e0fe768fefba2644edea0d945ae88895edc65",
   "signerSha256": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
   "mandatory": true,
-  "notes": "W7.113.2 · M7.104.2 (aswin): Work in progress (no description recorded)",
-  "commit": "d1a00bb3b4b19711a72031b5131a96ae9a5a8450",
-  "publishedAt": "2026-11-17T13:01:25Z"
+  "notes": "W7.113.2 · M7.104.3 (aswin): Sign-in screen hides \"Use a demo account\" outside the sandbox: it shows only when the server reports sandbox mode, so production no longer offers a picker with no accounts in it",
+  "commit": "4ff541d602c502fc0d9b4f026e82fa25a2fdd8f5",
+  "publishedAt": "2026-11-17T13:24:03Z"
 }
