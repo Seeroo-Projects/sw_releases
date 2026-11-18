@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 182,
-  "versionName": "dev_7.104.3",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.104.3/dev_BrosEstate_v7.104.3.apk",
-  "sizeBytes": 102615280,
-  "sha256": "fc112a2197f7495914f267d9e09e0fe768fefba2644edea0d945ae88895edc65",
+  "versionCode": 185,
+  "versionName": "dev_7.104.4",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_BrosEstate_v7.104.4/dev_BrosEstate_v7.104.4.apk",
+  "sizeBytes": 102615304,
+  "sha256": "cbf228221a844efdf81f74aef33c51c010e05e0008091aebd1686798eff4ad13",
   "signerSha256": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
   "mandatory": true,
-  "notes": "W7.113.2 · M7.104.3 (aswin): Sign-in screen hides \"Use a demo account\" outside the sandbox: it shows only when the server reports sandbox mode, so production no longer offers a picker with no accounts in it",
-  "commit": "4ff541d602c502fc0d9b4f026e82fa25a2fdd8f5",
-  "publishedAt": "2026-11-17T13:24:03Z"
+  "notes": "W7.113.2 · M7.104.4 (aswin): iOS app is iPhone-only: no iPad, Mac (Catalyst / Designed for iPhone) or Apple Vision destinations, portrait-only on iPhone, and app.json supportsTablet false so a prebuild cannot bring iPad back",
+  "commit": "4c7d2187a2d05404360576790e447a425f789a72",
+  "publishedAt": "2026-11-18T05:47:10Z"
 }
