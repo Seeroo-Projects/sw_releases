@@ -1,13 +1,13 @@
 {
   "environment": "test",
-  "versionCode": 1003036,
-  "versionName": "test_1.3.36",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_quicrm_v1.3.36/test_quicrm_v1.3.36.apk",
-  "sizeBytes": 63622990,
-  "sha256": "87c8c2a924baa354716eca747588a15aa6a0a76bdcc68583ca8242732f6ed040",
+  "versionCode": 1003065,
+  "versionName": "test_1.3.65",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_quicrm_v1.3.65/test_quicrm_v1.3.65.apk",
+  "sizeBytes": 64163606,
+  "sha256": "ffd09a8f13de830765a787294cd88e83a5be33cecf18be407fe8c3d0c46505bb",
   "signerSha256": "7c60c3e7906fd8901a88a2d50d9c5abe8f12948056c465639a8a2e33eeddc96c",
   "mandatory": false,
-  "notes": "Merge remote-tracking branch 'quicrm-projects/dev' into test",
-  "commit": "14671ed6d8ea3f1ba4f8972d83b64bcd86f6abd8",
-  "publishedAt": "2026-10-14T09:32:02Z"
+  "notes": "Merge dev into test (Devopper, rahul@seeroo.com)",
+  "commit": "00394e5af3ee0ab1b4a12791f92504ed7dfcdf70",
+  "publishedAt": "2026-11-18T05:13:43Z"
 }
