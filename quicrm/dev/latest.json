@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 1003036,
-  "versionName": "dev_1.3.36",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_quicrm_v1.3.36/dev_quicrm_v1.3.36.apk",
-  "sizeBytes": 63622986,
-  "sha256": "482c517a40ea2a05d9247e68f5fdffc608591e2ed2854ad3c802f05d862f9494",
+  "versionCode": 1003065,
+  "versionName": "dev_1.3.65",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_quicrm_v1.3.65/dev_quicrm_v1.3.65.apk",
+  "sizeBytes": 64163602,
+  "sha256": "22df8f27b194fe0a0240ffa6a0e2e4184eb60f5280052d363db8d761b723bc62",
   "signerSha256": "7c60c3e7906fd8901a88a2d50d9c5abe8f12948056c465639a8a2e33eeddc96c",
   "mandatory": false,
-  "notes": "Merge remote-tracking branch 'quicrm-projects/dev-rahul' into dev",
-  "commit": "982d08937fe06e9a2570398c3569e652c6913d75",
-  "publishedAt": "2026-10-14T08:44:03Z"
+  "notes": "feat: in-app support queries + lavender web restyle",
+  "commit": "9a9eb62fcb352c5d6ef17fe3f893fdf4c32ca664",
+  "publishedAt": "2026-11-18T05:10:36Z"
 }
