@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 1003065,
-  "versionName": "dev_1.3.65",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_quicrm_v1.3.65/dev_quicrm_v1.3.65.apk",
+  "versionCode": 1003067,
+  "versionName": "dev_1.3.67",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_quicrm_v1.3.67/dev_quicrm_v1.3.67.apk",
   "sizeBytes": 64163602,
-  "sha256": "22df8f27b194fe0a0240ffa6a0e2e4184eb60f5280052d363db8d761b723bc62",
+  "sha256": "e5d0cc2af9cbb0ab70585e200a681f1af2a7566063a96b2be483e1bb23c6e1ca",
   "signerSha256": "7c60c3e7906fd8901a88a2d50d9c5abe8f12948056c465639a8a2e33eeddc96c",
   "mandatory": false,
-  "notes": "feat: in-app support queries + lavender web restyle",
-  "commit": "9a9eb62fcb352c5d6ef17fe3f893fdf4c32ca664",
-  "publishedAt": "2026-11-18T05:10:36Z"
+  "notes": "feat: project bookings page + API endpoint, flat drawer/grid booking details",
+  "commit": "0397a22d7fb67b307373c2b380eab070f32dfcc2",
+  "publishedAt": "2026-11-20T10:07:06Z"
 }
