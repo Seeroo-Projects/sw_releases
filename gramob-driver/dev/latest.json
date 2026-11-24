@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 2000333,
-  "versionName": "dev_1.6.21",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-driver_v1.6.21/dev_gramob-driver_v1.6.21.apk",
-  "sizeBytes": 47203711,
-  "sha256": "04887d0a03e14b64f1aa0ab9dd0fb614e76bed25286fd9d67b7da421b752e3d9",
+  "versionCode": 2000337,
+  "versionName": "dev_1.6.25",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-driver_v1.6.25/dev_gramob-driver_v1.6.25.apk",
+  "sizeBytes": 47203591,
+  "sha256": "1f00104fc48f8736ec2ad48e02263a826b1be54696c60108121ee965a3aea676",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Smart Stand: new queue card look on driver Home (AD1.6.21)\n• Smart Stand: Home's queue panel opens and closes (AD1.6.20)\n• Smart Stand: outside timer removes a driver left outside the stand area; push on leaving (AD1.6.19 · ID1.6.24 · CP1.6.48 · WS1.6.45)\n• Stand list: distances under 1 km show in metres (AD1.6.18 · ID1.6.23)\n• Smart Stand: queue full, Home stand status, offline warning, service eligibility (AD1.6.17 · ID1.6.22 · WS1.6.44 · CP1.6.47)\n• Stand list: each stand shows its vehicle type's icon (AD1.6.16 · ID1.6.21 · WS1.6.43)\n• Stands: one stand per vehicle type, the active vehicle's stand is the active one (AD1.6.15 · ID1.6.20 · CP1.6.45 · WS1.6.41)\n• Smart Stand: stand queues, Auto Rickshaw Taxi / Car Taxi split, Android + iOS (AD1.6.14 · AC1.6.18 · ID1.6.19 · IC1.6.23 · CP1.6.41 · WS1.6.38)",
-  "commit": "c7d4628496f5c158e9ecb31ac198182f6905d027",
-  "publishedAt": "2026-11-24T10:10:01Z"
+  "notes": "• Smart Stand: Join card opens and closes; slider stays when closed (AD1.6.25)\n• Smart Stand: join again after \"Not now\"; orange main buttons (AD1.6.24)\n• Home panel fits short screens: slider never squashed (AD1.6.23)\n• Smart Stand: walk-in card says \"Drivers behind you will move up.\" (AD1.6.22)\n• Smart Stand: new queue card look on driver Home (AD1.6.21)\n• Smart Stand: Home's queue panel opens and closes (AD1.6.20)\n• Smart Stand: outside timer removes a driver left outside the stand area; push on leaving (AD1.6.19 · ID1.6.24 · CP1.6.48 · WS1.6.45)\n• Stand list: distances under 1 km show in metres (AD1.6.18 · ID1.6.23)",
+  "commit": "5e157383f38631347e8a85c4583527783143a04e",
+  "publishedAt": "2026-11-24T11:58:06Z"
 }
