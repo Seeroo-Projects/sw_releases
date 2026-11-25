@@ -1,13 +1,13 @@
 {
   "environment": "test",
-  "versionCode": 2000325,
-  "versionName": "test_1.6.15",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_gramob-passenger_v1.6.15/test_gramob-passenger_v1.6.15.apk",
-  "sizeBytes": 48322460,
-  "sha256": "4aaf14edab4c89cbc9f3d433c383449731f09e86b30420bd3f3dc7d18daf5c0a",
+  "versionCode": 2000329,
+  "versionName": "test_1.6.19",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/test_gramob-passenger_v1.6.19/test_gramob-passenger_v1.6.19.apk",
+  "sizeBytes": 48466328,
+  "sha256": "e397d1b9440c958f2ecf9b2855fee440a8f117aed6d15d65f98319490de0446a",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Trip-share link on the website, Clear all notifications, fares no longer shown expired on arrival (AC1.6.15 · AD1.6.11 · IC1.6.20 · ID1.6.16 · CP1.6.37 · WS1.6.34)\n• Store review numbers: 6678999999 (passenger) and 6678999991 (driver) on Android too\n• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Find a driver: one moving vehicle per free nearby driver of the chosen vehicle (API, passenger Android and iOS)\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)\n• Passenger Find a driver: map search design, category picture on the trip card\n• Notifications: the list loads every page as it scrolls; passenger bell shows the unread count\n• Passenger Settings: the switches now do what they say",
-  "commit": "15c6b81719f9c35b477407c90336acb0f2a6eba1",
-  "publishedAt": "2026-11-12T06:37:27Z"
+  "notes": "• Passenger Home: remove the queue zone banner; one row of services with View all (AC1.6.19, IC1.6.24)\n• Smart Stand: stand queues, Auto Rickshaw Taxi / Car Taxi split, Android + iOS (AD1.6.14 · AC1.6.18 · ID1.6.19 · IC1.6.23 · CP1.6.41 · WS1.6.38)\n• Parcels: admin Parcels section, Gramob call/chat on driver parcel cards, delivery wording and parcel push (AD1.6.13 · AC1.6.17 · ID1.6.18 · IC1.6.22 · WS1.6.36 · CP1.6.39)\n• Parcel delivery: Normal Parcel and Business Parcel (AD1.6.12 · AC1.6.16 · ID1.6.17 · IC1.6.21 · WS1.6.35 · CP1.6.38)\n• Trip-share link on the website, Clear all notifications, fares no longer shown expired on arrival (AC1.6.15 · AD1.6.11 · IC1.6.20 · ID1.6.16 · CP1.6.37 · WS1.6.34)\n• Store review numbers: 6678999999 (passenger) and 6678999991 (driver) on Android too\n• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Find a driver: one moving vehicle per free nearby driver of the chosen vehicle (API, passenger Android and iOS)",
+  "commit": "4f42ef89c29da3735a93d1cc59452c9edc7c1f7c",
+  "publishedAt": "2026-11-25T08:36:33Z"
 }
