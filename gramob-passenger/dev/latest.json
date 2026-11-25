@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 2000328,
-  "versionName": "dev_1.6.18",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-passenger_v1.6.18/dev_gramob-passenger_v1.6.18.apk",
-  "sizeBytes": 48466548,
-  "sha256": "1d44f7c20fc83fbe0fdd941170c8ecb35934b425da8f3628e7cb7c2ba9cf3404",
+  "versionCode": 2000329,
+  "versionName": "dev_1.6.19",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-passenger_v1.6.19/dev_gramob-passenger_v1.6.19.apk",
+  "sizeBytes": 48466336,
+  "sha256": "e09a75ae36e2abcde7d1eb75713020f19901eeecf1bb70b5ab433b655c900c81",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Smart Stand: stand queues, Auto Rickshaw Taxi / Car Taxi split, Android + iOS (AD1.6.14 · AC1.6.18 · ID1.6.19 · IC1.6.23 · CP1.6.41 · WS1.6.38)\n• Parcels: admin Parcels section, Gramob call/chat on driver parcel cards, delivery wording and parcel push (AD1.6.13 · AC1.6.17 · ID1.6.18 · IC1.6.22 · WS1.6.36 · CP1.6.39)\n• Parcel delivery: Normal Parcel and Business Parcel (AD1.6.12 · AC1.6.16 · ID1.6.17 · IC1.6.21 · WS1.6.35 · CP1.6.38)\n• Trip-share link on the website, Clear all notifications, fares no longer shown expired on arrival (AC1.6.15 · AD1.6.11 · IC1.6.20 · ID1.6.16 · CP1.6.37 · WS1.6.34)\n• Store review numbers: 6678999999 (passenger) and 6678999991 (driver) on Android too\n• OTP: read the login code from the SMS (Android passenger and driver), whole-code autofill on iOS\n• Find a driver: one moving vehicle per free nearby driver of the chosen vehicle (API, passenger Android and iOS)\n• Support tickets: details in a bottom sheet (passenger), paged ticket list (passenger and driver)",
-  "commit": "206d6940c5e0eae1e99540d3878bc6de88c9bc6e",
-  "publishedAt": "2026-11-20T11:21:52Z"
+  "notes": "• Passenger Home: remove the queue zone banner; one row of services with View all (AC1.6.19, IC1.6.24)\n• Smart Stand: stand queues, Auto Rickshaw Taxi / Car Taxi split, Android + iOS (AD1.6.14 · AC1.6.18 · ID1.6.19 · IC1.6.23 · CP1.6.41 · WS1.6.38)\n• Parcels: admin Parcels section, Gramob call/chat on driver parcel cards, delivery wording and parcel push (AD1.6.13 · AC1.6.17 · ID1.6.18 · IC1.6.22 · WS1.6.36 · CP1.6.39)\n• Parcel delivery: Normal Parcel and Business Parcel (AD1.6.12 · AC1.6.16 · ID1.6.17 · IC1.6.21 · WS1.6.35 · CP1.6.38)\n• Trip-share link on the website, Clear all notifications, fares no longer shown expired on arrival (AC1.6.15 · AD1.6.11 · IC1.6.20 · ID1.6.16 · CP1.6.37 · WS1.6.34)\n• Merge dev-dilshana into dev (Devopper, dilshana.shahul@seeroo.com)",
+  "commit": "7fbcd267d3e161d032f161b0dc17ccde285ad4bb",
+  "publishedAt": "2026-11-25T06:45:17Z"
 }
