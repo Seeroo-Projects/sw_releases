@@ -1,13 +1,13 @@
 {
   "environment": "dev",
-  "versionCode": 2000338,
-  "versionName": "dev_1.6.26",
-  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-driver_v1.6.26/dev_gramob-driver_v1.6.26.apk",
-  "sizeBytes": 47219975,
-  "sha256": "33645c0fef31751874f285100e94d26ee7aeec0bb40fa7248f6a1f80f6322c34",
+  "versionCode": 2000344,
+  "versionName": "dev_1.6.32",
+  "apkUrl": "https://github.com/Seeroo-Projects/sw_releases/releases/download/dev_gramob-driver_v1.6.32/dev_gramob-driver_v1.6.32.apk",
+  "sizeBytes": 47223519,
+  "sha256": "83ccbaceb5b8e7e1cfd540e57e9a4a08faba7c13dde3d94141abca9395bd54ad",
   "signerSha256": "ab7fbf61cd482dffe3593c94efb2debe3e45d67021f4ebc2e0f8a85a916629b1",
   "mandatory": false,
-  "notes": "• Smart Stand: STAND_JOIN push on entering the stand (AD1.6.26)\n• Smart Stand: Join card opens and closes; slider stays when closed (AD1.6.25)\n• Smart Stand: join again after \"Not now\"; orange main buttons (AD1.6.24)\n• Home panel fits short screens: slider never squashed (AD1.6.23)\n• Smart Stand: walk-in card says \"Drivers behind you will move up.\" (AD1.6.22)\n• Smart Stand: new queue card look on driver Home (AD1.6.21)\n• Smart Stand: Home's queue panel opens and closes (AD1.6.20)\n• Smart Stand: outside timer removes a driver left outside the stand area; push on leaving (AD1.6.19 · ID1.6.24 · CP1.6.48 · WS1.6.45)",
-  "commit": "23fa0ab0d012335a6ed1e426432ce4de32ab10c3",
-  "publishedAt": "2026-11-25T06:04:21Z"
+  "notes": "• Names up to 400 characters, never cut short: longer is a 400 with a clear message, in the API, the apps and the console (AD1.6.32, AC1.6.22, ID1.6.30, IC1.6.27, WS1.6.55, CP1.6.60)\n• B16: a submitted vehicle's details are locked until the reviewer sends them back, in the API and the driver apps (AD1.6.31, ID1.6.29, WS1.6.54, CP1.6.59)\n• SS B5: a passenger cancel soon after confirming gives the Smart Stand driver their queue place back (AD1.6.30, ID1.6.28, WS1.6.52, CP1.6.57)\n• PH2-02: a vehicle number is unique across every vehicle, the driver's own included (AD1.6.29, ID1.6.27, WS1.6.51, CP1.6.56)\n• X8: second-device sign-in gives up the Smart Stand place, and says so (AD1.6.28, ID1.6.26, IC1.6.25, WS1.6.50, CP1.6.55)\n• Malayalam text: taller lines everywhere, Smart Stand request fits (AD1.6.27, AC1.6.20)\n• Smart Stand: STAND_JOIN push on entering the stand (AD1.6.26)\n• Smart Stand: Join card opens and closes; slider stays when closed (AD1.6.25)",
+  "commit": "20ed37cbdcaad96ebad6727da9b5635cb62d5282",
+  "publishedAt": "2026-11-26T05:05:11Z"
 }
